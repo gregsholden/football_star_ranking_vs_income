@@ -1,6 +1,6 @@
-## Is The Playing Field Level?
+# Is The Playing Field Level?
 
-# Background
+## Background
 
 This project compares the distribution of rankings of top high school football players to the distribution of income across the U.S.
 
@@ -10,7 +10,7 @@ The goal of this project was to see if wealthier recruits (who are more likely t
 
 The analysis uses average income by zip code as a proxy for wealth, and maps the income data to each player's hometown.  \
 
-# Data Sources
+## Data Sources
 
 1.  High school player data is sourced from the CollegeFootballData.com and covers the years 2011-2023:
 https://api.collegefootballdata.com/api/docs/?url=/api-docs.json
