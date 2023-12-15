@@ -18,3 +18,11 @@ https://api.collegefootballdata.com/api/docs/?url=/api-docs.json
 2.  Zip code information is taken from https://www.unitedstateszipcodes.org/zip-code-database/
 
 3.  Income data is from https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2019-zip-code-data-soi
+
+## Key Files
+
+1.  593 Project_Position and Team Analysis_FINAL.ipynb :  Combines recruit, income and zip code data and is used to conduct analysis by school and position.
+
+2.  :  Used to calculate correlations between different positions and winning percentagess
+
+3.  :  Used to create maps for showing hometowns of recruits by school and based on star rankings.
