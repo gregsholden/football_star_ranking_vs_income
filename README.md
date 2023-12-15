@@ -8,11 +8,11 @@ Top high school football players are given star rankings by recruiting services.
 
 The goal of this project was to see if wealthier recruits (who are more likely to be able to afford private coaching and camps) tended to receive a disproportionate share of top rankings.  If so, this could lead to more scholarship offers from prestigious college football programs, which in turn leads to a greater chance of receiving a lucrative NFL contract.
 
-The analysis uses average income by zip code as a proxy for wealth, and maps the income data to each player's hometown.  \
+The analysis uses average income by zip code as a proxy for wealth, and maps the income data to each player's hometown.  
 
 ## Data Sources
 
-1.  High school player data is sourced from the CollegeFootballData.com and covers the years 2011-2023:
+1.  High school player data is sourced from the CollegeFootballData.com website and covers the years 2011-2023:
 https://api.collegefootballdata.com/api/docs/?url=/api-docs.json
 
 2.  Zip code information is taken from https://www.unitedstateszipcodes.org/zip-code-database/
