@@ -17,4 +17,4 @@ https://api.collegefootballdata.com/api/docs/?url=/api-docs.json
 
 2.  Zip code information is taken from https://www.unitedstateszipcodes.org/zip-code-database/
 
-3.  Income data is from https://www.irs.gov/statistics/soi-tax-stats-individual-income- tax-statistics-2019-zip-code-data-soi
+3.  Income data is from https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2019-zip-code-data-soi
