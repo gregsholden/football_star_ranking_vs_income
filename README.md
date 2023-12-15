@@ -21,8 +21,8 @@ https://api.collegefootballdata.com/api/docs/?url=/api-docs.json
 
 ## Key Files
 
-1.  593 Project_Position and Team Analysis_FINAL.ipynb: Combines recruiting, income and zip code data and is used to conduct analysis by school and position.
+1.  593 Project_Position and Team Analysis_FINAL.ipynb : Combines recruiting, income and zip code data and is used to conduct analysis by school and position.
 
-2.  Recruiting_and_outcome_result_correlations.ipynb: Used to calculate correlations between different position groups and winning percentagess
+2.  Recruiting_and_outcome_result_correlations.ipynb : Used to calculate correlations between different position groups and winning percentagess
 
-3.  :  Used to create maps for showing hometowns of recruits by school and based on star rankings.
+3. map_creation.ipynb : Used to create maps for showing hometowns of recruits by school and based on star rankings.
